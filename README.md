@@ -1,6 +1,6 @@
 # Gaurav 👋
 
-**Systems Architect | Edge-Cloud & AR Platforms | Open-Source Contributor**
+**Self-Directed Systems Architect | Patent-Pending Deep Tech & AR Platforms | Open-Source Contributor**
 
 ---
 
@@ -17,7 +17,8 @@
 
 ### 🗓️ Project & Architecture Timeline (Chronological)
 
-A selected timeline of proprietary, deep-tech, and platform architectures developed:
+A chronological timeline of independent, patent-pending deep-tech architectures and platforms:  
+*(Core research and implementation code retained in private repositories for patent-pending IP protection)*
 
 - **Dec 2025 — Smart Warranty Hub (MVP)**  
   FastAPI + SQLAlchemy backend, predictive scoring, OCR processing pipelines, and analytics dashboard.
