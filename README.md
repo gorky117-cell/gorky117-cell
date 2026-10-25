@@ -1,28 +1,30 @@
 # Hi there, I'm Gaurav 👋
 
-**Senior Software Engineer & Open-Source Contributor**  
-Focusing on systems engineering, compiler type-checkers, distributed protocols, and web infrastructure.
+**Cloud & Edge Solutions Architect | AI & Full-Stack SaaS Developer**  
+Building scalable cloud/edge orchestrations, autonomous AI systems, production SaaS platforms, and contributing to open-source infrastructure.
 
 ---
 
-### 🛠️ Core Technical Stack
+### 🌟 What I Do & Build
 
-- **Languages:** Rust, Go, TypeScript, JavaScript, Python
-- **Runtimes & Tooling:** Cargo, Deno, Bun, Node.js, Git, Linux / POSIX
-- **Domains:** Compiler Frontends & Soundness Verification, Protocol Development, Systems Reliability
-
----
-
-### 🚀 Open-Source Contributions & Focus Areas
-
-- **Compiler Verification & Type Systems:** Contributing bug fixes, type checker validation, and comprehensive regression test suites for language runtimes.
-- **Developer Tooling & Infrastructure:** Building cross-platform test runners, deterministic matchmaking engines, and automated verification suites.
-- **Decentralized Systems & Protocols:** Smart contract integrations, EIP-712 order validation, and fault-tolerant settlement flows.
+- ☁️ **Edge & Cloud Orchestration:** Designing resilient cloud architectures, edge computing networks, containerized services, and distributed workflows.
+- 🤖 **AI & Autonomous Agent Development:** Building custom AI integrations, autonomous agentic systems, prompt/context pipelines, and intelligent automations.
+- 🚀 **SaaS Platforms & Web Applications:** Architecting end-to-end SaaS products, modern web platforms, secure API backends, and responsive user experiences.
+- 🛠️ **Systems & Open-Source Infrastructure:** Contributing to type checkers, high-reliability test suites, and protocol integrity across global open-source ecosystems.
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Core Tech Stack & Tooling
 
-- 💻 Actively contributing to modern open-source codebases
-- 🔍 Focused on clean code, zero-defect PRs, and 100% test coverage
-- 🤝 Open to collaboration on systems and protocol engineering
+- **Cloud, Edge & DevOps:** Cloud Orchestration, Edge Compute, Docker, Linux/POSIX, CI/CD Pipelines, Serverless
+- **AI & Automation:** Autonomous AI Agent Frameworks, LLM Integrations, Workflow Automation
+- **Web & SaaS:** TypeScript, JavaScript, Python, Go, Rust, RESTful & GraphQL APIs, Modern Frontend Frameworks
+- **Data & Protocols:** SQL / NoSQL Databases, Web3 & EIP Standards, Fault-Tolerant Architectures
+
+---
+
+### 💡 Philosophy & Approach
+
+- ⚡ **Performance & Scalability:** Designed from day one for high uptime, low latency, and efficient compute usage.
+- 🔒 **Soundness & Reliability:** Rigorous testing, clean code architectures, and zero-defect deployments.
+- 🌐 **Independent Execution:** From system design and infrastructure orchestration to full-stack code delivery.
