@@ -15,7 +15,32 @@
 
 ---
 
-### 💻 Engineering Domains & Research
+### 🗓️ Project & Architecture Timeline (Chronological)
+
+A selected timeline of proprietary, deep-tech, and platform architectures developed:
+
+- **Dec 2025 — Smart Warranty Hub (MVP)**  
+  FastAPI + SQLAlchemy backend, predictive scoring, OCR processing pipelines, and analytics dashboard.
+- **Dec 2025 — Project Phoenix**  
+  Core distributed systems architecture and foundation layer.
+- **Jan 2026 — Smart Parking Management System (v1)**  
+  IoT and physical-world automated resource tracking platform.
+- **Feb 2026 — Edge Smart MCP (Phase 1.6) & Cloud MCP**  
+  Edge-first Model Context Protocol (MCP) runtimes and clean cloud orchestration backends.
+- **Mar 2026 — AR Expression Platform**  
+  Augmented Reality social layer connecting physical prints with spatial media feeds, expression creation, and real-time AR viewer.
+- **May 2026 — AI For All Platform**  
+  Web portal and accessible interface for community AI toolkits.
+- **May 2026 — P2P Edge AI**  
+  Local-first, privacy-preserving edge AI prototype designed for offline and air-gapped environments.
+- **Jun 2026 — P2P Cloud & Edge AI Backend (Phase 1.51)**  
+  Hybrid P2P edge-cloud Python backend with local CPU model inference and fallback routing.
+- **Oct 2026 — Open-Source Infrastructure & Compilers**  
+  Upstream compiler type-checker soundness fixes (`hy-check`), test runners, and Linux Foundation (`OpenSSF`) CVE tools.
+
+---
+
+### 💻 Engineering Domains
 
 - **Augmented Reality (AR) & Spatial Tech:** AR-first expression layers, physical-to-digital spatial mapping, and interactive media pipelines.
 - **Edge-Cloud & P2P Distributed Systems:** Peer-to-peer topologies, local-first compute, and hybrid cloud orchestrations designed for offline resilience.
