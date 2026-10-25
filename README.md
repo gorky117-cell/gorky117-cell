@@ -1,13 +1,15 @@
 # Gaurav
 
-**Systems Architect | Low-Cost Edge AI Inference, Applied AI & AR | Open-Source Contributor**
+**First-Principles Systems Architect | Low-Cost Edge AI, Applied AI & AR | Open-Source Contributor**
 
-Focused on eliminating high cloud inference costs through local-first Edge AI & P2P runtimes, engineering production applied AI architectures, building patent-pending AR spatial platforms, and contributing foundational fixes across open-source ecosystems.
+Self-directed engineer building from first principles: eliminating high cloud inference costs through local-first Edge AI & P2P runtimes, engineering production applied AI architectures, building patent-pending AR spatial platforms, and contributing foundational fixes across open-source ecosystems.
 
 ---
 
 ### 💡 Core Engineering Solutions
 
+- **🧠 First-Principles & Self-Directed Engineering:**  
+  Independent practitioner operating from first-principles reasoning — dissecting compiler internals, protocol specifications, and system runtimes from the ground up without relying on black-box abstractions.
 - **📉 Slashing AI Inference Costs at the Edge:**  
   Bypassing expensive centralized GPU/token costs by engineering local-first, peer-to-peer (P2P) edge inference pipelines (CPU-optimized runtimes, air-gapped execution, and hybrid cloud fallbacks).
 - **👓 Applied AI & AR Spatial Layers:**  
