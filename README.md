@@ -1,8 +1,8 @@
 # Gaurav
 
-**Systems Architect | Low-Cost Edge AI Inference, AR & Open-Source Infrastructure**
+**Systems Architect | Low-Cost Edge AI Inference, AR & Open-Source Contributor**
 
-Focused on eliminating high cloud inference costs through local-first Edge AI & P2P runtimes, architecting patent-pending AR spatial platforms, and contributing foundational fixes to open-source infrastructure.
+Focused on eliminating high cloud inference costs through local-first Edge AI & P2P runtimes, architecting patent-pending AR spatial platforms, and contributing foundational fixes across open-source ecosystems.
 
 ---
 
@@ -49,7 +49,7 @@ A chronological timeline of independent, patent-pending deep-tech architectures 
   Local-first, privacy-preserving edge AI prototype designed for offline and air-gapped environments.
 - **Jun 2026 — P2P Cloud & Edge AI Backend (Phase 1.51)**  
   Hybrid P2P edge-cloud Python backend with local CPU model inference and fallback routing.
-- **Oct 2026 — Open-Source Infrastructure & Compilers**  
+- **Oct 2026 — Open-Source Contributions & Compilers**  
   Upstream compiler type-checker soundness fixes (`hy-check`), test runners, and Linux Foundation (`OpenSSF`) CVE tools.
 
 ---
