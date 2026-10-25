@@ -1,30 +1,31 @@
-# Hi there, I'm Gaurav 👋
+# Gaurav 👋
 
-**Deep Tech Architect & Inventor | Edge-Cloud, AR & DaaS Platforms**  
-Specializing in patented deep-tech architectures, Augmented Reality (AR) social layers, peer-to-peer edge systems, and high-scale DaaS / SaaS platforms.
-
----
-
-### 🌐 Core Focus & Innovation Areas
-
-- 👓 **Augmented Reality (AR) & Spatial Tech:** Architecting AR-first social expression layers, spatial media interactions, and physical-to-digital bridge platforms.
-- ⚡ **P2P & Edge-Cloud Orchestration:** Local-first edge computing, peer-to-peer distributed topologies, low-latency hybrid cloud failovers, and autonomous edge runtimes.
-- 📊 **DaaS & Knowledge Systems:** Scalable Data-as-a-Service architectures, structured knowledge graphs, and predictive data pipeline engines.
-- 🚀 **SaaS Platforms & Web Ecosystems:** End-to-end multi-tenant SaaS products, secure API architectures, and automated verification suites.
-- 🛠️ **Systems & Protocol Integrity:** Contributing to compiler type-checkers, soundness guarantees, and open-source infrastructure reliability.
+**Systems Architect | Edge-Cloud & AR Platforms | Open-Source Contributor**
 
 ---
 
-### 🛠️ Technical Capabilities & Domains
+### 🏆 Merged & Active Open-Source Work
 
-- **Edge, Cloud & P2P:** Edge AI, P2P Networks, Distributed Orchestration, Microservices, Docker, Linux/POSIX
-- **Spatial & Interactive:** Augmented Reality (AR) Frameworks, Spatial Media Layers, Computer Vision & OCR Workflows
-- **Platform Engineering:** Full-Stack SaaS, DaaS Pipelines, High-Performance APIs (REST/RPC), Predictive Scoring
-- **Languages & Protocols:** Python, Go, Rust, TypeScript, JavaScript, SQL/NoSQL, Web3/EIP Standards
+- **[OpenSSF / cve-bin-tool](https://github.com/ossf/cve-bin-tool)** (Linux Foundation)
+  - **Merged PR [#5986](https://github.com/ossf/cve-bin-tool/pull/5986):** Fixed MIME type extraction and prioritized file extension matching. Merged by maintainer `ffontaine`.
+- **[limitlessprojects / Go-Hybrid](https://github.com/limitlessprojects/Go-Hybrid)**
+  - Compiler frontend type-checker validation, builtin operand constraints, and constant conversion test coverage (`hy-check`).
+- **[Ubiquity DAO](https://github.com/ubiquity)**
+  - Developer matchmaking engine, CoW Swap cashout integrations, and EIP-712 order verification suites.
 
 ---
 
-### 💡 Engineering Mindset
+### 💻 Engineering Domains & Research
 
-- 🛡️ **Patent-Level Rigor:** Deep foundational architectures built for IP defensibility, high throughput, and zero-defect fault tolerance.
-- 🔒 **Privacy & Local-First:** Architectures prioritizing edge autonomy, data sovereignty, and offline resilience.
+- **Augmented Reality (AR) & Spatial Tech:** AR-first expression layers, physical-to-digital spatial mapping, and interactive media pipelines.
+- **Edge-Cloud & P2P Distributed Systems:** Peer-to-peer topologies, local-first compute, and hybrid cloud orchestrations designed for offline resilience.
+- **DaaS & Knowledge Systems:** Data-as-a-Service pipeline architectures, knowledge graphs, and predictive analytics.
+- **Production SaaS:** High-scale web applications, REST/RPC services, and automated verification suites.
+
+---
+
+### 🛠️ Core Stack
+
+- **Languages:** Go, Rust, Python, TypeScript, JavaScript
+- **Systems & Infra:** Linux, POSIX tooling, Docker, Git, CI/CD pipelines
+- **Standards:** EIP-712 / EVM, REST, WebSockets, Structured Data
