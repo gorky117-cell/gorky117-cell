@@ -19,8 +19,10 @@ Self-directed engineer building from first principles: eliminating high cloud in
 
 ---
 
-### 🏆 Verified Open-Source Impact
+### 🏆 Verified Open-Source Impact & Systems Research
 
+- **[Solana Block Ordering Research](https://github.com/gorky117-cell/solana-block-ordering-research)**  
+  - Empirical research suite investigating transaction ordering rules and determinism across **6 Solana Mainnet validators** spanning **4 distinct client architectures** (Jito-Solana, Jump Crypto Frankendancer, Anza Agave Canary, and Native Firedancer). Fully reproducible in one command via Docker Compose with strict $\le 0.05$ SOL spend-cap enforcement.
 - **[OpenSSF / cve-bin-tool](https://github.com/ossf/cve-bin-tool)** (Linux Foundation)  
   - **Merged PR [#5986](https://github.com/ossf/cve-bin-tool/pull/5986):** Resolved MIME-type extraction defects and prioritized file extension matching in automated vulnerability scanning. Merged by maintainer `ffontaine`.
 - **[limitlessprojects / Go-Hybrid](https://github.com/limitlessprojects/Go-Hybrid)**  
@@ -51,6 +53,8 @@ A chronological timeline of independent, patent-pending deep-tech architectures 
   Local-first, privacy-preserving edge AI prototype designed for offline and air-gapped environments.
 - **Jun 2026 — P2P Cloud & Edge AI Backend (Phase 1.51)**  
   Hybrid P2P edge-cloud Python backend with local CPU model inference and fallback routing.
+- **Oct 2026 — Solana Validator Transaction Ordering Architecture**  
+  Engineered and published the empirical measurement framework evaluating leader banking stage schedulers across mainnet client lineages.
 - **Oct 2026 — Open-Source Contributions & Compilers**  
   Upstream compiler type-checker soundness fixes (`hy-check`), test runners, and Linux Foundation (`OpenSSF`) CVE tools.
 
@@ -58,6 +62,6 @@ A chronological timeline of independent, patent-pending deep-tech architectures 
 
 ### 🛠️ Core Stack
 
-- **Languages:** Go, Rust, Python, TypeScript, JavaScript
-- **Systems & Edge:** Local-first Edge Runtimes, P2P Networks, Docker, Linux/POSIX, CI/CD
+- **Languages:** Rust, Go, Python, TypeScript, JavaScript
+- **Systems & Edge:** Solana (TPU/QUIC/SVM), Local-first Edge Runtimes, P2P Networks, Docker, Linux/POSIX, CI/CD
 - **Protocols & Standards:** EIP-712 / EVM, REST, WebSockets, Structured Data
