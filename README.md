@@ -1,8 +1,8 @@
 # Gaurav
 
-**Systems Architect | Low-Cost Edge AI Inference, AR & Open-Source Contributor**
+**Systems Architect | Low-Cost Edge AI Inference, Applied AI & AR | Open-Source Contributor**
 
-Focused on eliminating high cloud inference costs through local-first Edge AI & P2P runtimes, architecting patent-pending AR spatial platforms, and contributing foundational fixes across open-source ecosystems.
+Focused on eliminating high cloud inference costs through local-first Edge AI & P2P runtimes, engineering production applied AI architectures, building patent-pending AR spatial platforms, and contributing foundational fixes across open-source ecosystems.
 
 ---
 
